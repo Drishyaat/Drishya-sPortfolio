@@ -13,7 +13,7 @@ const Resume: React.FC = () => {
           You can view my resume using the link below.
         </p>
         <a
-          href="https://drive.google.com/file/d/1igViae8CFYz8Q-S7r0bHEeGKSvjWMlPa/view?usp=sharing"
+          href="https://drive.google.com/file/d/12m-Kw4DvQidMVDo6Qq871GCCiP0vf3Ks/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 px-6 py-3 bg-teal-400 text-gray-900 font-semibold rounded-full text-lg hover:bg-teal-500 transition animate-bounce"
